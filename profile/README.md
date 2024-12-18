@@ -1,5 +1,5 @@
 <br><p align="center">
-  <img src="https://github.com/user-attachments/assets/8dac569a-9116-4a09-b2d5-a595bd0ef862" style="width: 75px; height: auto;"/><br><br>
+  <img src="https://avatars.githubusercontent.com/u/189151317" style="width: 100px; height: auto;"/><br><br>
   We're <code>StellarStudios</code>, the organization behind <a href="https://stellarstudios.xyz/products/mcplugins">MC Plugins</a> and <a href="https://stellarstudios.xyz/products/mcplugins">MC Mods</a>.<br>
   We are creating the industry's best extensions for the <a href="https://pterodactyl.io">Pterodactyl</a> panel.
   <br><br>
